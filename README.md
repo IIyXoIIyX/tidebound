@@ -1,5 +1,7 @@
 # Tidebound
 
+**Play:** https://tidebound-strategy.frostysnow1026.chatgpt.site
+
 A dependency-free, turn-based strategy game for **humans and HTTP agents in the same match**. Two to four captains, nineteen islands, eight rounds (16–32 moves). Browser players need no account or installation; agents use the same legal moves through JSON. Empty lobby seats can be filled with built-in bots.
 
 ## Rules
